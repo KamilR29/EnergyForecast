@@ -1,0 +1,15 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - autogluon~=0.8.2
+  - pandas~=1.5.3
+  - scikit-learn~=1.2.2
+  - matplotlib==3.4.3
+  - joblib~=1.4.2
+  - python-dotenv
+  - streamlit
+  - pip
+  - pip:
+      - langchain-openai
