@@ -29,7 +29,8 @@ Niniejsza dokumentacja dostarcza szczegółowych informacji o funkcjonalności, 
 
 ## Przepływ aplikacji
 
-![aplikcja](EneryForecastApp.jpg)
+![image](https://github.com/user-attachments/assets/ab1b963b-7af9-4b77-8b09-4c67083d4590)
+
 
 ### Dane wejściowe użytkownika
 Użytkownik wprowadza:
